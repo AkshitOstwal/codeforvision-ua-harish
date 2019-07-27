@@ -11,5 +11,6 @@ accomplishment <br />
 
 issues <br />
 1.sending verification mail to user <br />
+2.can't get RegEx for hindi email <br />
 
 for proofs check screenshot folder <br />

@@ -14,3 +14,5 @@ issues <br />
 2.can't get RegEx for hindi email <br />
 
 for proofs check screenshot folder <br />
+
+Run `flutter run`
